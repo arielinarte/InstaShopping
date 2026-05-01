@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f6f7fb; }
+main { max-width: 900px; margin: 0 auto; padding: 20px; }
+.card { background: white; border-radius: 10px; padding: 16px; margin-bottom: 12px; }
+button { background: #0a7; color: white; border: 0; padding: 8px 12px; border-radius: 6px; cursor: pointer; }
+input, select { width: 100%; padding: 8px; margin: 6px 0 10px; }
